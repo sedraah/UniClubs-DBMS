@@ -8,7 +8,7 @@ A relational database system designed to manage and centralize all university cl
 ## Table of Contents
 
 - [Overview](#overview)
-- [Business Rules & Constraints](#business-rules--constraints)
+- [Rules & Constraints](#rules--constraints)
 - [Database Design](#database-design)
 - [Schema](#schema)
 - [Queries](#queries)
