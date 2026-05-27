@@ -1,4 +1,4 @@
-# UniClubsDB — University Club Management Database System
+# UniClubsDB: University Club Management Database System
 
 A relational database system designed to manage and centralize all university club-related data, including memberships, events, elections, budgets, and advisor assignments.
 
@@ -157,6 +157,6 @@ This ensures minimal redundancy, strong data integrity, and scalability for futu
 
 ## Tools Used
 
-- **PostgreSQL / pgAdmin** — database implementation and query execution
-- **draw.io (diagrams.net)** — ER diagram and schema design
-- **Google Gemini** — used for sample data population
+- **PostgreSQL / pgAdmin** for database implementation and query execution
+- **draw.io (diagrams.net)** for ER diagram and schema design
+- **Google Gemini** used for sample data population
